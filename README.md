@@ -15,8 +15,3 @@
 <img alt="Css 3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-
-### Minhas estatísticas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooaoJ&hide_progress=true)
-
-![ooaoJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ooaoJ&show_icons=true&theme=radical)
