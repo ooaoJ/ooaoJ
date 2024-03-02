@@ -1,7 +1,4 @@
 ### 👋 Olá, eu sou o João Pedro. 
-
-### 🙍‍♂️ Sobre mim: 
-
 ### 💻 Comecei na programação no começo de 2024, mais precisamente em Janeiro. Sempre foi uma habilidade que eu almejei, visto que era a área na qual eu queria trabalhar. Então, por mais que tarde, tomei a iniciativa.
 
 
