@@ -1,5 +1,5 @@
 ### 👋 Olá, eu sou o João Pedro. 
-### 💻 Programador desde 2023, foco em desenvolvimento web e estudando CyberSegurança.
+### 💻 Programador desde 2023, foco em desenvolvimento web.
 
 
 ### As minhas principais redes sociais são:
