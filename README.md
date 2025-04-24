@@ -1,7 +1,7 @@
 ### 👋 Olá, eu sou o João Pedro. 
 ### 💻 Tennho 17 anos, dei início a minha vida na programação em 2023, e sigo atualmente cursando Análise de Desenvolvimento de Sistemas no SENAI.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooaoJ&layout=donut&theme=dark)](https://github.com/ooaoJ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooaoJ&layout=donut&theme=dark&hide_progress=true)](https://github.com/ooaoJ)
 
 ## Minhas redes socias:
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ooaoJ) 
@@ -16,5 +16,3 @@
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 ### Outras tecnologias:
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img alt="Figma" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-
-[![Top Langs](https://camo.githubusercontent.com/499555dcc8e4948fda9d486db75a432d9a3b24e29267353c70ac63a0abd611b1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a726126686964655f70726f67726573733d74727565)
