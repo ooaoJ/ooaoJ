@@ -1,7 +1,7 @@
 ### 👋 Olá, eu sou o João Pedro. 
 ### 💻 Tennho 17 anos, dei início a minha vida na programação em 2023, e sigo atualmente cursando Análise de Desenvolvimento de Sistemas no SENAI.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooaoJ&layout=pie&theme=dark&hide_progress=true)](https://github.com/ooaoJ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooaoJ&layout=donut&theme=dark&hide_progress=true)](https://github.com/ooaoJ)
 
 ## Minhas redes socias:
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ooaoJ) 
