@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fc4503&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/color=1C8139&size=35&center=true&vCenter=true&width=1000&lines=Olá,+João+Pedro+aqui;Tenho+17+anos;Estudando+Desenvolvimento+de+Sistemas+no+Senai;Bem+vindo!+:%29)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f03fc&height=120&section=header"/>
 
 ### 👋 Olá, eu sou o João Pedro. 
 ### 💻 Tenho 17 anos, dei início a minha vida na programação em 2023, e sigo atualmente cursando Análise de Desenvolvimento de Sistemas no SENAI.
@@ -20,3 +18,5 @@
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 ### Outras tecnologias:
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img alt="Figma" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f03fc&height=120&section=footer"/>
