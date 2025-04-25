@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fc4503&height=120&section=header"/>
 ### 👋 Olá, eu sou o João Pedro. 
 ### 💻 Tenho 17 anos, dei início a minha vida na programação em 2023, e sigo atualmente cursando Análise de Desenvolvimento de Sistemas no SENAI.
 
