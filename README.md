@@ -1,5 +1,5 @@
 ### 👋 Olá, eu sou o João Pedro. 
-### 💻 Tennho 17 anos, dei início a minha vida na programação em 2023, e sigo atualmente cursando Análise de Desenvolvimento de Sistemas no SENAI.
+### 💻 Tenho 17 anos, dei início a minha vida na programação em 2023, e sigo atualmente cursando Análise de Desenvolvimento de Sistemas no SENAI.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooaoJ&layout=donut&theme=dark)](https://github.com/ooaoJ)
 
