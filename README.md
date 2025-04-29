@@ -27,8 +27,6 @@
 
 ## 🛠️ Tech Stack I'm Exploring & Leveling Up:
 
-### 🐱‍👤 My skills:
-
 <p align="center">
   <table>
     <tr>
