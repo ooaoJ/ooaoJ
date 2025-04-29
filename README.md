@@ -27,14 +27,9 @@
 
 ## 🛠️ Tech Stack I'm Exploring & Leveling Up:
 
-### 🎨 Front-End Vibes:
-<img alt="CSS 3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+### 🐱‍👤 My skills:
 
-### ⚙️ Back-End Power:
-<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
-<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.icons8.com/?size=512&id=qcPZJD5DNDto&format=png" width="42px"><img src="https://img.icons8.com/?size=120&id=UG5EO81XNkPs&format=png" width="42px"><img src="https://img.icons8.com/fluency/256/javascript.png"  width="42px"><img src="https://img.icons8.com/fluency/256/node-js.png"  width="42px"><img src="https://img.icons8.com/?size=512&id=22813&format=png" width="42px"><img src="https://img.icons8.com/?size=256&id=j9DnICNnlhGk&format=png" width="42px"><img src="https://img.icons8.com/?size=512&id=JRnxU7ZWP4mi&format=png" width="42px"><img src="https://img.icons8.com/?size=256&id=bp24DwGXJDyT&format=png" width="42px"><img src="https://img.icons8.com/?size=512&id=20906&format=png" width="42px">
 
 ### 🎯 Creative Tools & More:
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
