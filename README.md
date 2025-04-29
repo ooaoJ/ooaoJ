@@ -29,7 +29,39 @@
 
 ### 🐱‍👤 My skills:
 
-<img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo.png" alt="external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo"/> <img width="100" height="100" src="https://img.icons8.com/stickers/100/laravel.png" alt="laravel"/> <img width="96" height="96" src="https://img.icons8.com/color/96/javascript--v1.png" alt="javascript--v1"/> <img width="90" height="90" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo.png" width="64" alt="PHP"/><br><sub><b>PHP</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/stickers/100/laravel.png" width="64" alt="Laravel"/><br><sub><b>Laravel</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/javascript--v1.png" width="64" alt="JavaScript"/><br><sub><b>JavaScript</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="64" alt="Postman"/><br><sub><b>Postman</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/96/mysql-logo.png" width="64" alt="MySQL"/><br><sub><b>MySQL</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/bootstrap--v2.png" width="64" alt="Bootstrap"/><br><sub><b>Bootstrap</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/git.png" width="64" alt="Git"/><br><sub><b>Git</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" width="64" alt="React"/><br><sub><b>React</b></sub>
+      </td>
+      <td align="center">
+          <img width="64" height="64" src="https://img.icons8.com/color/96/figma--v1.png" alt="figma--v1"/><br><sub><b>Figma</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
