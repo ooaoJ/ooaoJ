@@ -29,12 +29,7 @@
 
 ### 🐱‍👤 My skills:
 
-<img src="https://img.icons8.com/?size=512&id=qcPZJD5DNDto&format=png" width="42px"><img src="https://img.icons8.com/?size=120&id=UG5EO81XNkPs&format=png" width="42px"><img src="https://img.icons8.com/fluency/256/javascript.png" width="42px"><img src="https://img.icons8.com/fluency/256/node-js.png" width="42px"><img src="https://img.icons8.com/?size=512&id=22813&format=png" width="42px"><img src="https://img.icons8.com/?size=256&id=j9DnICNnlhGk&format=png" width="42px"><img src="https://img.icons8.com/?size=512&id=JRnxU7ZWP4mi&format=png" width="42px"><img src="https://img.icons8.com/?size=256&id=bp24DwGXJDyT&format=png" width="42px"><img src="https://img.icons8.com/?size=512&id=20906&format=png" width="42px">
-
-### 🎯 Creative Tools & More:
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
-<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"> 
-<img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo.png" alt="external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo"/>
 
 ---
 
