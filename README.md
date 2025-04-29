@@ -29,7 +29,7 @@
 
 ### 🐱‍👤 My skills:
 
-<img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo.png" alt="external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo"/><img width="96" height="96" src="https://img.icons8.com/fluency/96/laravel.png" alt="laravel"/>
+<img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo.png" alt="external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo"/><img width="100" height="100" src="https://img.icons8.com/stickers/100/laravel.png" alt="laravel"/>
 
 ---
 
