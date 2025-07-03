@@ -11,7 +11,7 @@
   </p>
 </div>
 
-<h2>📊 GitHub Stats</h2> 
+<h2>Stats</h2> 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooaoJ&layout=compact&langs_count=6&theme=github_dark_dimmed">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ooaoJ&layout=compact&theme=github_dark_dimmed&hide=prs">
@@ -19,11 +19,11 @@
 
 <br clear="both" />
 
-<h2>🛠️ Technologies</h2> 
+<h2>SKILLS</h2> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,git,mysql,postman,php,laravel)](https://skillicons.dev)
 
-<h2>📄 Resumes</h2>
+<h2>Resumes</h2>
 <p>
   <a href="https://github.com/user-attachments/files/21044957/english-cv.pdf"><strong>Download English Resume</strong></a> • 
   <a href="https://github.com/user-attachments/files/21044940/portuguese-cv.pdf"><strong>Download Portuguese Resume</strong></a>
