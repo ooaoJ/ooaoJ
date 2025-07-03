@@ -10,8 +10,11 @@
 
 <br>
 
+CV: [Currículo.pdf](https://github.com/user-attachments/files/21044819/Curriculo.pdf)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooaoJ&layout=donut&theme=dark" alt="Top Languages"/>
+  
 </p>
 
 ---
