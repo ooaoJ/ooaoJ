@@ -27,7 +27,6 @@
     <img src="https://img.icons8.com/fluency/96/mysql-logo.png" width="64" alt="MySQL"/>
     <img src="https://img.icons8.com/color/96/javascript--v1.png" width="64" alt="JavaScript"/>
     <img src="https://img.icons8.com/color/96/git.png" width="64" alt="Git"/>
-    <img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" width="64" alt="Linux/Arch"/>
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-fastapi-a-modern-web-framework-for-building-apis-with-python-logo-color-tal-revivo.png" width="64" alt="FastAPI"/>
   </h2>
 </div>
