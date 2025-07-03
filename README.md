@@ -20,16 +20,7 @@
 <br clear="both" />
 
 <h2>🛠️ Technologies</h2> 
-<div>
-  <h2>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo.png" width="64" alt="PHP"/>
-    <img src="https://img.icons8.com/stickers/100/laravel.png" width="64" alt="Laravel"/>
-    <img src="https://img.icons8.com/fluency/96/mysql-logo.png" width="64" alt="MySQL"/>
-    <img src="https://img.icons8.com/color/96/javascript--v1.png" width="64" alt="JavaScript"/>
-    <img src="https://img.icons8.com/color/96/git.png" width="64" alt="Git"/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-fastapi-a-modern-web-framework-for-building-apis-with-python-logo-color-tal-revivo.png" width="64" alt="FastAPI"/>
-  </h2>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <h2>📄 Resumes</h2>
 <p>
