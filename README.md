@@ -1,12 +1,12 @@
-<h1>Olá, mundo!</h1> 
+<h1>Hello, world!</h1> 
 <div>
   <p align="left">
     - Hi, I’m <strong>@ooaoJ</strong><br>
     - Backend developer focused on RESTful APIs and databases<br>
-    - Currently working with PHP, Laravel, FastAPI and MySQL<br>
+    - Currently working with PHP, Laravel, FastAPI, and MySQL<br>
     <img align="right" src="https://imgur.com/CzGWxDK.gif" alt="Cats on Fire Place" width="200">
     - Technical student at <strong>SENAI</strong><br>
-    - Passionate about clean code, learning new technologies and backend architecture<br>
+    - Passionate about clean code, learning new technologies, and backend architecture<br>
     - Feel free to explore my repositories<br>
   </p>
 </div>
@@ -31,10 +31,10 @@
   </h2>
 </div>
 
-<h2>📄 Currículos</h2>
+<h2>📄 Resumes</h2>
 <p>
-  <a href="https://github.com/user-attachments/files/21044957/english-cv.pdf"><strong>Download English CV</strong></a> • 
-  <a href="https://github.com/user-attachments/files/21044940/portuguese-cv.pdf"><strong>Baixar Currículo em Português</strong></a>
+  <a href="https://github.com/user-attachments/files/21044957/english-cv.pdf"><strong>Download English Resume</strong></a> • 
+  <a href="https://github.com/user-attachments/files/21044940/portuguese-cv.pdf"><strong>Download Portuguese Resume</strong></a>
 </p>
 
 <!---
