@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f03fc&height=120&section=header"/>
 
-<h2 align="center">Hey there! 👋 I'm João Pedro 🚀</h2>
+<h2 align="center">João Pedro — Backend Developer</h2>
 
 <p align="center">
-🧠 17 y/o developer in the making <br>
-💻 Started coding in 2023 and haven’t stopped since! <br>
-📚 Currently studying <strong>Systems Analysis and Development</strong> at <strong>SENAI</strong>  
+📍 Regente Feijó, São Paulo, Brazil <br>
+🎓 Studying Systems Analysis and Development at <strong>SENAI</strong> <br>
+🖥️ Focused on backend development, databases, and API design
 </p>
 
 <p align="center">
@@ -13,24 +13,17 @@
   <a href="https://github.com/user-attachments/files/21044940/portuguese-cv.pdf"><strong>📄 Currículo em Português</strong></a>
 </p>
 
-<br>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooaoJ&layout=donut&theme=dark" alt="Top Languages"/>
-</p>
+## 📌 Overview
+
+- Currently in technical training at SENAI with hands-on experience in personal and collaborative backend projects.
+- Knowledge in backend technologies like **PHP, Laravel, FastAPI**, and relational databases (**MySQL**).
+- Experience working with **Git**, API development, and **Linux (VM)** environments for server-side simulation.
 
 ---
 
-## 🌐 Let's Connect:
-<p align="center">
-  <a href="https://youtube.com/@ooaoJ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
-  <a href="https://www.instagram.com/_jaoooh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-  <a href="https://linkedin.com/in/ooaoj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</p>
-
----
-
-## 🛠️ Tech Stack I'm Exploring & Leveling Up:
+## 🛠️ Tech Stack
 
 <p align="center">
   <table>
@@ -46,6 +39,24 @@
       <td align="center"><img src="https://img.icons8.com/color/96/figma--v1.png" width="64" alt="Figma"/><br><sub><b>Figma</b></sub></td>
     </tr>
   </table>
+</p>
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooaoJ&layout=donut&theme=dark" alt="Top Languages"/>
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="https://youtube.com/@ooaoJ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
+  <a href="https://www.instagram.com/_jaoooh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+  <a href="https://linkedin.com/in/ooaoj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f03fc&height=120&section=footer"/>
