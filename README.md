@@ -30,7 +30,7 @@
 
 <h3>Others Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,bootstrap,react,lua,r,figma,debian,blender,fastapi,sass,vite,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,bootstrap,react,lua,r,figma,debian,blender,fastapi,sass,vite,wordpress&perline=7)](https://skillicons.dev)
 
 
 <h2>Resumes</h2>
