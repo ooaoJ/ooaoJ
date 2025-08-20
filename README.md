@@ -22,15 +22,15 @@
 <h2>SKILLS</h2> 
 <h3>BackEnd Development</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,py,postman,mysql,postgres)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=php,laravel,py,postman,mysql,postgres)
 
 <h3>Versioning and Servers</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=linux,git,github)
 
 <h3>Others Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,bootstrap,react,lua,r,figma,debian,blender,fastapi,sass,vite,wordpress&perline=7)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,js,css,bootstrap,react,lua,r,figma,debian,blender,fastapi,sass,vite,wordpress&perline=7)
 
 
 <h2>Resumes</h2>
