@@ -20,8 +20,18 @@
 <br clear="both" />
 
 <h2>SKILLS</h2> 
+<h3>BackEnd Development</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,git,mysql,postman,php,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,py,postman,mysql,postgres)](https://skillicons.dev)
+
+<h3>Versioning and Servers</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github)](https://skillicons.dev)
+
+<h3>Others Skills</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,bootstrap,react,lua,r,figma,debian,blender,fastapi,sass,vite,wordpress)](https://skillicons.dev)
+
 
 <h2>Resumes</h2>
 <p>
