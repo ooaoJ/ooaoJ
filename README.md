@@ -24,7 +24,7 @@
 
 <h3>Others Skills</h3>
 
-![My Skills](https://skillicons.dev/icons?i=html,js,css,bootstrap,react,lua,r,figma,debian,blender,fastapi,sass,vite,wordpress&perline=7)
+![My Skills](https://skillicons.dev/icons?i=html,js,css,bootstrap,react,figma,debian,fastapi,sass,vite&perline=5)
 
 
 <h2>Resumes</h2>
