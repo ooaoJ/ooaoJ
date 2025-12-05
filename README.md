@@ -3,7 +3,7 @@
   <p align="left">
     - Hi, I’m <strong>@ooaoJ</strong><br>
     - Backend developer focused on RESTful APIs and databases<br>
-    - Currently working with PHP, Laravel, FastAPI, and MySQL<br>
+    - Currently working with PHP and Laravel<br>
     <img align="right" src="https://imgur.com/CzGWxDK.gif" alt="Cats on Fire Place" width="200">
     - Technical student at <strong>SENAI</strong><br>
     - Passionate about clean code, learning new technologies, and backend architecture<br>
