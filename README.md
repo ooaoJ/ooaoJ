@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=250&section=header&text=João%20Sperandio&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Backend%20Development%20%7C%20PHP%20%7C%20Laravel&descSize=18&descColor=ffffff&descAlignY=60&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=250&section=header&text=Jo%C3%A3o%20Sperandio&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Backend%20Development%20%7C%20PHP%20%7C%20Laravel%20%7C%20Node.js&descSize=18&descColor=ffffff&descAlignY=60&animation=fadeIn)
 
 </div>
 
@@ -40,23 +40,21 @@
 
 **Languages**
 
-![PHP](https://img.shields.io/badge/php-554c7a?style=for-the-badge&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/php-0d1117?style=for-the-badge&logo=php)
+![JavaScript](https://img.shields.io/badge/javascript-0d1117?style=for-the-badge&logo=javascript)
 
-**Frameworks & Runtime**
+**Frameworks**
 
-![Laravel](https://img.shields.io/badge/laravel-4a0601?style=for-the-badge&logo=laravel)
+![Laravel](https://img.shields.io/badge/laravel-0d1117?style=for-the-badge&logo=laravel)
 ![Vue.js](https://img.shields.io/badge/vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+![Git](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-0d1117?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 
@@ -77,15 +75,6 @@
       </td>
     </tr>
   </table>
-
-  <br/>
-
-  <img width="70%" src="https://streak-stats.demolab.com/?user=ooaoJ&theme=dark&hide_border=true&fire=22C55E&ring=22C55E&currStreakLabel=22C55E&background=0d1117&stroke=22C55E&dates=ffffff&sideLabels=22C55E" />
-
-  <br/><br/>
-
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ooaoJ&bg_color=0d1117&color=22C55E&line=22C55E&point=ffffff&area=true&hide_border=true" />
-
 </div>
 
 ---
@@ -94,8 +83,12 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=ooaoJ&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
+![](https://github-profile-trophy.vercel.app/?username=ooaoJ&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=8)
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0B4619,50:1A7A34,100:0B4619&height=130&section=footer)
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=130&section=footer)
+
+</div>
