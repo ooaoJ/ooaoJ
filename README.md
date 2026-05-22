@@ -68,7 +68,7 @@
   <table border="0" cellspacing="0" cellpadding="10">
     <tr>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.shion.dev/api?username=ooaoJ&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github&title_color=22C55E&icon_color=22C55E&bg_color=0d1117&text_color=ffffff" />
+        <img height="180em" src="https://github-readme-stats.shion.dev/api?username=ooaoJ&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&title_color=22C55E&icon_color=22C55E&bg_color=0d1117&text_color=ffffff" />
       </td>
       <td align="center">
         <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ooaoJ&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=8&title_color=22C55E&bg_color=0d1117&text_color=ffffff" />
