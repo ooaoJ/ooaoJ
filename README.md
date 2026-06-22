@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&multiline=false&width=600&lines=Welcome+to+my+GitHub+Profile;Laravel+Student;Building+the+Future+with+Laravel;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
 </div>
-
+ 
 <br/>
 
 <div align="center">
