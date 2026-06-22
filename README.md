@@ -53,7 +53,6 @@
 
 ![Git](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-0d1117?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
