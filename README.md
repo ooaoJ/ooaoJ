@@ -76,16 +76,6 @@
   </table>
 </div>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=ooaoJ&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=8)
-
-</div>
-
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=130&section=footer)
