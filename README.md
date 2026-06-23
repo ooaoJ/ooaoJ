@@ -28,7 +28,7 @@
 - Backend developer focused on **RESTful APIs** and **databases**
 - Technical student at **SENAI**
 - Currently working with **PHP**, **Laravel** and **MySQL**
-- Studying **JavaScript**, **Vue**, **React** and **Node.js**
+- Studying **JavaScript**, **Vue** and **Node.js**
 - Goal: become a strong **Back-End Developer**
 - Always learning, building and improving
 
