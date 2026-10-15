@@ -1,4 +1,4 @@
-# João Sperandio | [See my portfolio](https://ooaoj.github.io)
+# João Sperandio | [My portfolio](https://ooaoj.github.io)
 
 
 ### Back-End Developer
