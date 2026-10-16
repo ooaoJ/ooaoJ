@@ -53,7 +53,7 @@ My main interests are:
 
 <img height="165" src="https://github-readme-stats.shion.dev/api?username=ooaoJ&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff" />
 
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ooaoJ&hide=html,css,blade&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=ffffff&text_color=a1a1aa" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ooaoJ&hide=html,css,blade,purebasic&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=ffffff&text_color=a1a1aa" />
 
 </div>
 
